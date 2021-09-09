@@ -30,8 +30,8 @@
 [The Picture of Dorian Gray](https://boheme130.github.io/PictureOfDorianGray/) <br>
 [Orlando](https://boheme130.github.io/Orlando.git.io/) <br>
 [The Carpet Weaver](https://boheme130.github.io/CarpetWeaver.git.io/) <br>
-[China Mountain Zhang]() <br>
-[The Power of the Dog]() <br>
+[China Mountain Zhang](https://boheme130.github.io/ChinaMountainZhang.git.io/) <br>
+[The Power of the Dog](https://boheme130.github.io/PowerOfDog.git.io/) <br>
 
 
 
@@ -48,8 +48,8 @@
 [格力高哥特风短篇](https://boheme130.github.io/WhenTheRoadRises.git.io/) <br>
 [姑妈的遗产](https://boheme130.github.io/AuntAdelinesBequest.git.io/) <br>
 [Somers卖身记](https://boheme130.github.io/SomersSold.git.io/) <br>
-[纽约客北欧短篇Alvin]() <br>
-[格力高短篇戏中戏]() <br>
+[纽约客北欧短篇Alvin](https://boheme130.github.io/Alvin.git.io/) <br>
+[格力高短篇戏中戏](https://boheme130.github.io/ValentineSixBeats.git.io/) <br>
 
 
 
@@ -58,7 +58,7 @@
 <br>
 
 ### 混杂
-[扫文混杂1]() <br>
+[扫文混杂1](ttps://boheme130.github.io/ReadingList2021Spring.git.io/) <br>
 [扫文混杂2]() <br>
 [熟词僻义]() <br>
 [英耽完整词汇表]() <br>
