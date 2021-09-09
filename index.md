@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## 扫文通道
+<br/>
+<br/>
 
-You can use the [editor on GitHub](https://github.com/Boheme130/Fiction.git.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[作者编辑](https://github.com/Boheme130/Fiction.git.io/edit/gh-pages/index.md)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 系列
+[大坏狼](https://boheme130.github.io/BigBadWolf.git.io/) <br/>
+[His Royal系列](https://boheme130.github.io/HisRoyaoSeries.git.io/) <br/>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+<br/>
+<br/>
+### 长篇
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+<br/>
+<br/>
+### 短篇
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Boheme130/Fiction.git.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
