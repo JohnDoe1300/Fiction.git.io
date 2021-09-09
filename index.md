@@ -6,6 +6,7 @@
 ### 系列
 [大坏狼](https://boheme130.github.io/BigBadWolf.git.io/) ❤️❤️❤️<br/>
 [His Royal系列](https://boheme130.github.io/HisRoyaoSeries.git.io/) <br/>
+[绅士三部曲](https://boheme130.github.io/GentlemenSeries.git.io/) <br>
 
 
 
@@ -22,6 +23,15 @@
 
 ### 短篇
 [Territory](https://boheme130.github.io/Territory.git.io/)
+
+
+
+
+<br>
+<br>
+### 混杂
+[扫文混杂1]
+[扫文混杂2]
 
 
 
