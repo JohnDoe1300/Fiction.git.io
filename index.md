@@ -23,10 +23,10 @@
 [Comfor and Joy](https://boheme130.github.io/ComfortAndJoy.git.io/) <br>
 [The Road to Silver Plume]() <br>
 [Aqua Follies](https://boheme130.github.io/AquaFollies.git.io/) <br>
-[The Lost Language of Cranes]() <br>
-[Restored]() <br>
-[DOwntime() <br>
-Heores for Ghosts]() <br>
+[The Lost Language of Cranes](https://boheme130.github.io/LostLanguageOfCranes.git.io/) <br>
+[Restored](https://boheme130.github.io/Restored.git.io/) <br>
+[Downtime(https://boheme130.github.io/Downtime.git.io/) <br>
+Heores for Ghosts](https://boheme130.github.io/HeroesForGhosts.git.io/) <br>
 [The Picture of Dorian Gray]() <br>
 [Orlando]() <br>
 [The Carpet Weaver]() <br>
