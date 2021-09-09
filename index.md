@@ -59,7 +59,7 @@
 <br>
 
 ### 混杂
-[扫文混杂1](ttps://boheme130.github.io/ReadingList2021Spring.git.io/) <br>
+[扫文混杂1](https://boheme130.github.io/ReadingList2021Spring.git.io/) <br>
 [扫文混杂2](https://boheme130.github.io/ReadingList2021Summer.git.io/) <br>
 [熟词僻义](https://boheme130.github.io/VolcabularyWithDifferentMeanings.git.io/) <br>
 [英耽完整词汇表](https://quizlet.com/Bohemian_/folders/fic/sets) <br>
