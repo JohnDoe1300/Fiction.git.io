@@ -18,6 +18,8 @@
 
 ### 长篇
 [Less](https://boheme130.github.io/Less.git.io/)
+[The Gentle Ar of Fortune Hunting](https://boheme130.github.io/GentleArtOfFortuneHunting.git.io/)
+[Eligible]()
 
 
 
