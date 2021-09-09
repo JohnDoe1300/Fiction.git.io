@@ -17,9 +17,19 @@
 <br/>
 
 ### 长篇
-[Less](https://boheme130.github.io/Less.git.io/)
-[The Gentle Ar of Fortune Hunting](https://boheme130.github.io/GentleArtOfFortuneHunting.git.io/)
-[Eligible]()
+[Less](https://boheme130.github.io/Less.git.io/) <br>
+[The Gentle Ar of Fortune Hunting](https://boheme130.github.io/GentleArtOfFortuneHunting.git.io/) <br>
+[Eligible](https://boheme130.github.io/Eligible.git.io/) <br>
+[Comfor and Joy]() <br>
+[The Road to Silver Plume]() <br>
+[Aqua Follies]() <br>
+[The Lost Language of Cranes]() <br>
+[Restored]() <br>
+[DOwntime() <br>
+Heores for Ghosts]() <br>
+[The Picture of Dorian Gray]() <br>
+[Orlando]() <br>
+[The Carpet Weaver]() <br>
 
 
 
