@@ -20,9 +20,9 @@
 [Less](https://boheme130.github.io/Less.git.io/) <br>
 [The Gentle Ar of Fortune Hunting](https://boheme130.github.io/GentleArtOfFortuneHunting.git.io/) <br>
 [Eligible](https://boheme130.github.io/Eligible.git.io/) <br>
-[Comfor and Joy]() <br>
+[Comfor and Joy](https://boheme130.github.io/ComfortAndJoy.git.io/) <br>
 [The Road to Silver Plume]() <br>
-[Aqua Follies]() <br>
+[Aqua Follies](https://boheme130.github.io/AquaFollies.git.io/) <br>
 [The Lost Language of Cranes]() <br>
 [Restored]() <br>
 [DOwntime() <br>
