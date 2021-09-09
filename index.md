@@ -44,6 +44,7 @@
 [Audtition](https://boheme130.github.io/Audition.git.io/) <br>
 [Territory](https://boheme130.github.io/Territory.git.io/) <br>
 [The Englishman](https://boheme130.github.io/TheEnglishman.git.io/) <br>
+[A is for Alone](https://boheme130.github.io/AForAlone.git.io/) <br>
 [泰勒斯小三歌同人](https://boheme130.github.io/YouBelongWithMe.git.io/) <br>
 [格力高哥特风短篇](https://boheme130.github.io/WhenTheRoadRises.git.io/) <br>
 [姑妈的遗产](https://boheme130.github.io/AuntAdelinesBequest.git.io/) <br>
@@ -59,10 +60,10 @@
 
 ### 混杂
 [扫文混杂1](ttps://boheme130.github.io/ReadingList2021Spring.git.io/) <br>
-[扫文混杂2]() <br>
-[熟词僻义]() <br>
-[英耽完整词汇表]() <br>
-[从应试过渡到虚构类阅读]() <br>
+[扫文混杂2](https://boheme130.github.io/ReadingList2021Summer.git.io/) <br>
+[熟词僻义](https://boheme130.github.io/VolcabularyWithDifferentMeanings.git.io/) <br>
+[英耽完整词汇表](https://quizlet.com/Bohemian_/folders/fic/sets) <br>
+[从应试过渡到虚构类阅读](https://boheme130.github.io/HowToRead.git.io/) <br>
 
 
 
