@@ -1,8 +1,7 @@
 ## 扫文通道
-<br/>
-<br/>
-
 [作者编辑](https://github.com/Boheme130/Fiction.git.io/edit/gh-pages/index.md)
+<br>
+<br>
 
 ### 系列
 [大坏狼](https://boheme130.github.io/BigBadWolf.git.io/) <br/>
