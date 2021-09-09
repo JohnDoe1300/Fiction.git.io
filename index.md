@@ -9,7 +9,7 @@
 [绅士三部曲](https://boheme130.github.io/GentlemenSeries.git.io/) <br>
 [Winterbourne四部曲](https://boheme130.github.io/WinterbourneSeries.git.io/) <br>
 [县级市系列](https://boheme130.github.io/HazardAndSomers.git.io/) <br>
-[Borealis系列]() <br>
+[Borealis侦探事务所系列](https://boheme130.github.io/Borealis.git.io/) <br>
 
 
 
