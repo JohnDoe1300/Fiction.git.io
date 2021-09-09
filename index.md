@@ -39,15 +39,15 @@
 <br/>
 
 ### 短篇
-[谎言之水从天而降 翻译]() <br>
-[他 翻译]() <br>
-[Audtition]() <br>
+[谎言之水从天而降 翻译](https://boheme130.github.io/WaterFallsFromNowhere.git.io/) <br>
+[他 翻译](https://boheme130.github.io/Him.git.io/) <br>
+[Audtition](https://boheme130.github.io/Audition.git.io/) <br>
 [Territory](https://boheme130.github.io/Territory.git.io/) <br>
-[The Englishman]() <br>
-[泰勒斯小三歌同人]() <br>
-[格力高哥特风短篇]() <br>
-[姑妈的遗产]() <br>
-[Somers卖身记]() <br>
+[The Englishman](https://boheme130.github.io/TheEnglishman.git.io/) <br>
+[泰勒斯小三歌同人](https://boheme130.github.io/YouBelongWithMe.git.io/) <br>
+[格力高哥特风短篇](https://boheme130.github.io/WhenTheRoadRises.git.io/) <br>
+[姑妈的遗产](https://boheme130.github.io/AuntAdelinesBequest.git.io/) <br>
+[Somers卖身记](https://boheme130.github.io/SomersSold.git.io/) <br>
 [纽约客北欧短篇Alvin]() <br>
 [格力高短篇戏中戏]() <br>
 
