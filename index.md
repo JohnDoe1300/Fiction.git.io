@@ -4,7 +4,7 @@
 <br>
 
 ### 系列
-[大坏狼](https://boheme130.github.io/BigBadWolf.git.io/) ❤️❤️❤️<br/>
+[大坏狼系列](https://boheme130.github.io/BigBadWolf.git.io/) ❤️❤️❤️<br/>
 [His Royal系列](https://boheme130.github.io/HisRoyaoSeries.git.io/) <br/>
 [绅士三部曲](https://boheme130.github.io/GentlemenSeries.git.io/) <br>
 [Winterbourne四部曲](https://boheme130.github.io/WinterbourneSeries.git.io/) <br>
@@ -18,9 +18,9 @@
 
 ### 长篇
 [Less](https://boheme130.github.io/Less.git.io/) <br>
-[The Gentle Ar of Fortune Hunting](https://boheme130.github.io/GentleArtOfFortuneHunting.git.io/) <br>
+[The Gentle Art of Fortune Hunting](https://boheme130.github.io/GentleArtOfFortuneHunting.git.io/) <br>
 [Eligible](https://boheme130.github.io/Eligible.git.io/) <br>
-[Comfor and Joy](https://boheme130.github.io/ComfortAndJoy.git.io/) <br>
+[Comfort and Joy](https://boheme130.github.io/ComfortAndJoy.git.io/) <br>
 [The Road to Silver Plume]() <br>
 [Aqua Follies](https://boheme130.github.io/AquaFollies.git.io/) <br>
 [The Lost Language of Cranes](https://boheme130.github.io/LostLanguageOfCranes.git.io/) <br>
@@ -30,6 +30,8 @@
 [The Picture of Dorian Gray](https://boheme130.github.io/PictureOfDorianGray/) <br>
 [Orlando](https://boheme130.github.io/Orlando.git.io/) <br>
 [The Carpet Weaver](https://boheme130.github.io/CarpetWeaver.git.io/) <br>
+[China Mountain Zhang]() <br>
+[The Power of the Dog]() <br>
 
 
 
@@ -37,16 +39,30 @@
 <br/>
 
 ### 短篇
-[Territory](https://boheme130.github.io/Territory.git.io/)
+[谎言之水从天而降 翻译]() <br>
+[他 翻译]() <br>
+[Audtition]() <br>
+[Territory](https://boheme130.github.io/Territory.git.io/) <br>
+[The Englishman]() <br>
+[泰勒斯小三歌同人]() <br>
+[格力高哥特风短篇]() <br>
+[姑妈的遗产]() <br>
+[Somers卖身记]() <br>
+[纽约客北欧短篇Alvin]() <br>
+[格力高短篇戏中戏]() <br>
 
 
 
 
 <br>
 <br>
+
 ### 混杂
-[扫文混杂1]
-[扫文混杂2]
+[扫文混杂1]() <br>
+[扫文混杂2]() <br>
+[熟词僻义]() <br>
+[英耽完整词汇表]() <br>
+[从应试过渡到虚构类阅读]() <br>
 
 
 
