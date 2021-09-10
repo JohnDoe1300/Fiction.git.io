@@ -74,6 +74,6 @@
 
 <br>
 <br>
-![avatar](https://i.loli.net/2021/09/11/2hPlrzpGEYA4W3j.jpg)
+![avatar](https://sm.ms/image/2hPlrzpGEYA4W3j)
 
 
