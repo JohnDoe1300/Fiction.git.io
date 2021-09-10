@@ -23,7 +23,7 @@
 
 ## 长篇
 #### [Less](https://boheme130.github.io/Less.git.io/) <br>
-#### [The Gentle Art of Fortune Hunting](https://boheme130.github.io/GentleArtOfFortuneHunting.git.io/) <br>
+#### [The Gentle Art of Fortune Hunting](https://boheme130.github.io/GentleArt.git.io/) <br>
 #### [Eligible](https://boheme130.github.io/Eligible.git.io/) <br>
 #### [Comfort and Joy](https://boheme130.github.io/ComfortAndJoy.git.io/) <br>
 #### [The Road to Silver Plume](https://boheme130.github.io/RoadToSilverPlume.git.io/) <br>
