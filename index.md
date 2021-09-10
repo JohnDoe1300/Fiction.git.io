@@ -74,7 +74,6 @@
 [从应试过渡到虚构类阅读](https://boheme130.github.io/HowToRead.git.io/) <br>
 [格力高采访](https://boheme130.github.io/GregoryAsheInterview.git.io/) <br>
 
-![avatar](https://i.loli.net/2021/09/11/2hPlrzpGEYA4W3j.jpg)
 
 <br>
 
