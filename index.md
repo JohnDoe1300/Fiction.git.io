@@ -47,6 +47,7 @@
 [Territory](https://boheme130.github.io/Territory.git.io/) <br>
 [The Englishman](https://boheme130.github.io/TheEnglishman.git.io/) <br>
 [A is for Alone](https://boheme130.github.io/AForAlone.git.io/) <br>
+[Bryan Washington亚裔非裔短篇两则](https://boheme130.github.io/BryanWashington.git.io/) <br>
 [泰勒斯小三歌同人](https://boheme130.github.io/YouBelongWithMe.git.io/) <br>
 [格力高哥特风短篇](https://boheme130.github.io/WhenTheRoadRises.git.io/) <br>
 [姑妈的遗产](https://boheme130.github.io/AuntAdelinesBequest.git.io/) <br>
