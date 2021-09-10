@@ -8,8 +8,8 @@
 <br>
 
 ## 系列
-<font size=50>[大坏狼系列](https://boheme130.github.io/BigBadWolf.git.io/) ❤️❤️❤️ <br> </font>
-[His Royal系列](https://boheme130.github.io/HisRoyaoSeries.git.io/) <br>
+#### [大坏狼系列](https://boheme130.github.io/BigBadWolf.git.io/) ❤️❤️❤️ <br> </font>
+#### [His Royal系列](https://boheme130.github.io/HisRoyaoSeries.git.io/) <br>
 #### [绅士三部曲](https://boheme130.github.io/GentlemenSeries.git.io/) <br>
 #### [Winterbourne四部曲](https://boheme130.github.io/WinterbourneSeries.git.io/) <br>
 #### [县级市系列](https://boheme130.github.io/HazardAndSomers.git.io/) <br>
