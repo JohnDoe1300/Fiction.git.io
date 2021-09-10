@@ -65,6 +65,7 @@
 [熟词僻义](https://boheme130.github.io/VolcabularyWithDifferentMeanings.git.io/) <br>
 [英耽完整词汇表](https://quizlet.com/Bohemian_/folders/fic/sets) <br>
 [从应试过渡到虚构类阅读](https://boheme130.github.io/HowToRead.git.io/) <br>
+[格力高采访](https://boheme130.github.io/GregoryAsheInterview.git.io/) <br>
 
 
 
