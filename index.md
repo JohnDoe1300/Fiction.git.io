@@ -1,4 +1,4 @@
-## 扫文通道
+# 扫文通道
 [作者编辑](https://github.com/Boheme130/Fiction.git.io/edit/gh-pages/index.md)
 
 
