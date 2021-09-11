@@ -47,7 +47,7 @@
 <br/>
 
 ## 短篇
-#### [谎言之水从天而降 翻译](https://boheme130.github.io/WaterFallsFromNowhere.git.io/) <br>
+#### [谎言之水从天而降 翻译](https://boheme130.github.io/WaterFrNowh.git.io/) <br>
 #### [他 翻译](https://boheme130.github.io/Him.git.io/) <br>
 #### [Audtition](https://boheme130.github.io/Audition.git.io/) <br>
 #### [Territory](https://boheme130.github.io/Territory.git.io/) <br>
