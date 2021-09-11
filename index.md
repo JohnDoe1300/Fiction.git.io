@@ -28,7 +28,7 @@
 #### [Comfort and Joy](https://boheme130.github.io/ComfortAndJoy.git.io/) <br>
 #### [The Road to Silver Plume](https://boheme130.github.io/RoadToSilverPlume.git.io/) <br>
 #### [Aqua Follies](https://boheme130.github.io/AquaFollies.git.io/) <br>
-#### [The Lost Language of Cranes](https://boheme130.github.io/LostLanguageOfCranes.git.io/) <br>
+#### [The Lost Language of Cranes](https://boheme130.github.io/LostLangCranes.git.io/) <br>
 #### [Restored](https://boheme130.github.io/Restored.git.io/) <br>
 #### [Downtime](https://boheme130.github.io/Downtime.git.io/) <br>
 #### [The Backup Boyfriend](https://boheme130.github.io/BackupBoyfriend/) <br>
