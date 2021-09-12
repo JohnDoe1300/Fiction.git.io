@@ -39,6 +39,7 @@
 #### [Police Brutality](https://boheme130.github.io/PoliceBrutality.git.io/) <br>
 #### [The Power of the Dog](https://boheme130.github.io/PowerOfDog.git.io/) <br>
 #### [Alpha's Cage](https://boheme130.github.io/AlphasCage.git.io/) <br>
+#### [Thief: Black Wolf](https://boheme130.github.io/ThiefBlackWolf/) <br>
 
 
 
