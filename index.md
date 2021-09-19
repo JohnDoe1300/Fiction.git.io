@@ -62,6 +62,7 @@
 #### [Somers卖身记](https://boheme130.github.io/SomersSold.git.io/) <br>
 #### [纽约客北欧短篇Alvin](https://boheme130.github.io/Alvin.git.io/) <br>
 #### [格力高情人节短篇：戏中戏](https://boheme130.github.io/ValentineSixBeats.git.io/) <br>
+#### [Dedicated](https://boheme130.github.io/Dedicated.git.io/)
 
 
 
