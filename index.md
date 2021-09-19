@@ -41,6 +41,7 @@
 #### [Alpha's Cage](https://boheme130.github.io/AlphasCage.git.io/) <br>
 #### [Thief: Black Wolf](https://boheme130.github.io/ThiefBlackWolf/) <br>
 #### [Risk Assessment](https://boheme130.github.io/RiskAssess.git.io/)
+#### [The Boyfriend Mandate](https://boheme130.github.io/BFMandate.git.io/)
 
 
 
