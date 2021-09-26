@@ -61,9 +61,10 @@
 #### [姑妈的遗产](https://boheme130.github.io/AuntAdelinesBequest.git.io/) <br>
 #### [Somers卖身记](https://boheme130.github.io/SomersSold.git.io/) <br>
 #### [纽约客北欧短篇Alvin](https://boheme130.github.io/Alvin.git.io/) <br>
-#### [格力高情人节短篇：戏中戏](https://boheme130.github.io/ValentineSixBeats.git.io/) <br>
+#### [县级市情人节短篇：戏中戏](https://boheme130.github.io/ValentineSixBeats.git.io/) <br>
 #### [Dedicated](https://boheme130.github.io/Dedicated.git.io/) <br>
 #### [Smoke, Lilies, and Jade](https://boheme130.github.io/SmokeLilies.git.io/) <br>
+#### [县级市感恩节Pride Slays Thanksgiving](https://boheme130.github.io/PrideThksGiving/) <br>
 
 
 
