@@ -24,6 +24,7 @@
 
 ## 长篇
 #### [Less](https://boheme130.github.io/Less.git.io/) <br>
+#### [Less2](https://boheme130.github.io/Less2/)<br>
 #### [The Gentle Art of Fortune Hunting](https://boheme130.github.io/GentleArt.git.io/) <br>
 #### [Eligible](https://boheme130.github.io/Eligible.git.io/) <br>
 #### [Comfort and Joy](https://boheme130.github.io/ComfortAndJoy.git.io/) <br>
