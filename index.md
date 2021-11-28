@@ -49,7 +49,7 @@
 #### [Wild as the West Texas Wind ](https://boheme130.github.io/WildTexasWind/) <br>
 #### [Invitation to the Dance](https://boheme130.github.io/InvitationToDance/) <br>
 #### [Honeytrap](https://boheme130.github.io/Honeytrap/) <br>
-#### [The Amazing Adventures of Kavalier and Clay](https://boheme130.github.io/AmazingAdventureOfKC/) <br>
+#### [The Amazing Adventures of Kavalier and Clay](https://boheme130.github.io/AdventureOfKC/) <br>
 
 
 
