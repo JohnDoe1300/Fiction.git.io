@@ -9,8 +9,17 @@
 <br>
 
 ## 精选
-### [His Royal系列](https://boheme130.github.io/HisRoyaoSeries.git.io/) <br> 
+### [His Royal系列](https://boheme130.github.io/HisRoyaoSeries.git.io/)
+皇室深柜为爱出柜
+### [绅士三部曲](https://boheme130.github.io/GentlemenSeries.git.io/)
+摄政时期绅士俱乐部三部曲
 
+
+
+
+
+<br/>
+<br/>
 
 ## 系列 (打⭐️的为推荐)
 #### [大坏狼系列](https://boheme130.github.io/BigBadWolf.git.io/) <br>
