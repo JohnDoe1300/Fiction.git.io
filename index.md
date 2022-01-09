@@ -12,10 +12,10 @@
 
 ## 系列(打⭐️的为推荐)
 #### [大坏狼系列](https://boheme130.github.io/BigBadWolf.git.io/) ❤️❤️❤️ <br>
-#### [His Royal系列](https://boheme130.github.io/HisRoyaoSeries.git.io/) <br>
-#### [绅士三部曲](https://boheme130.github.io/GentlemenSeries.git.io/) <br>
+#### [His Royal系列](https://boheme130.github.io/HisRoyaoSeries.git.io/) <br> ⭐️
+#### [绅士三部曲](https://boheme130.github.io/GentlemenSeries.git.io/) <br> ⭐️
 #### [Winterbourne四部曲](https://boheme130.github.io/WinterbourneSeries.git.io/) <br>
-#### [Lily Morton英国系列](https://boheme130.github.io/LilyMorton.git.io/) <br>
+#### [Lily Morton英国系列](https://boheme130.github.io/LilyMorton.git.io/) <br> ⭐️
 #### [县级市系列](https://boheme130.github.io/HazardAndSomers.git.io/) <br>
 #### [Borealis侦探事务所系列](https://boheme130.github.io/Borealis.git.io/) <br>
 #### [PsyCop系列](https://boheme130.github.io/PsyCop/) <br>
@@ -27,10 +27,10 @@
 
 ## 长篇(打⭐️的为推荐)
 #### [Less](https://boheme130.github.io/Less.git.io/) <br>
-#### [Less2](https://boheme130.github.io/Less2/)<br>
+#### [Less2](https://boheme130.github.io/Less2/)⭐️<br>
 #### [The Gentle Art of Fortune Hunting](https://boheme130.github.io/GentleArt.git.io/) <br>
 #### [Eligible](https://boheme130.github.io/Eligible.git.io/) <br>
-#### [Comfort and Joy](https://boheme130.github.io/ComfortAndJoy.git.io/) <br>
+#### [Comfort and Joy](https://boheme130.github.io/ComfortAndJoy.git.io/)⭐️ <br>
 #### [The Road to Silver Plume](https://boheme130.github.io/RoadToSilverPlume.git.io/) <br>
 #### [Aqua Follies](https://boheme130.github.io/AquaFollies.git.io/) <br>
 #### [The Lost Language of Cranes](https://boheme130.github.io/LostLangCranes.git.io/) <br>
@@ -51,9 +51,9 @@
 #### [Relative Justice](https://boheme130.github.io/RelativeJustive/) <br>
 #### [Wild as the West Texas Wind ](https://boheme130.github.io/WildTexasWind/) <br>
 #### [Invitation to the Dance](https://boheme130.github.io/InvitationToDance/) <br>
-#### [Honeytrap](https://boheme130.github.io/Honeytrap/) <br>
-#### [The Amazing Adventures of Kavalier and Clay](https://boheme130.github.io/AdventureOfKC/) <br>
-#### [A Little Life](https://boheme130.github.io/ALittleLife/) <br>
+#### [Honeytrap](https://boheme130.github.io/Honeytrap/)⭐️ <br> 
+#### [The Amazing Adventures of Kavalier and Clay](https://boheme130.github.io/AdventureOfKC/)⭐️ <br> 
+#### [A Little Life](https://boheme130.github.io/ALittleLife/)⭐️⭐️ <br> 
 
 
 
@@ -63,7 +63,7 @@
 
 ## 短篇(打⭐️的为推荐)
 #### [谎言之水从天而降 翻译](https://boheme130.github.io/WaterFrNowh.git.io/) <br>
-#### [他 翻译](https://boheme130.github.io/Him.git.io/) <br>
+#### [他 翻译](https://boheme130.github.io/Him.git.io/) <br> ⭐️
 #### [Audtition](https://boheme130.github.io/Audition.git.io/) <br>
 #### [Territory](https://boheme130.github.io/Territory.git.io/) <br>
 #### [The Englishman](https://boheme130.github.io/TheEnglishman.git.io/) <br>
@@ -78,7 +78,7 @@
 #### [Dedicated](https://boheme130.github.io/Dedicated.git.io/) <br>
 #### [Smoke, Lilies, and Jade](https://boheme130.github.io/SmokeLilies.git.io/) <br>
 #### [县级市感恩节Pride Slays Thanksgiving](https://boheme130.github.io/PrideThksGiving/) <br>
-#### [The World Well Lost](https://boheme130.github.io/WorldWellLost/)<br>
+#### [The World Well Lost](https://boheme130.github.io/WorldWellLost/)<br> ⭐️
 
 
 
