@@ -8,9 +8,11 @@
 <br>
 <br>
 
+## 精选
+### [His Royal系列](https://boheme130.github.io/HisRoyaoSeries.git.io/) <br> 
 
 
-## 系列(打⭐️的为推荐)
+## 系列 (打⭐️的为推荐)
 #### [大坏狼系列](https://boheme130.github.io/BigBadWolf.git.io/) <br>
 #### [His Royal系列](https://boheme130.github.io/HisRoyaoSeries.git.io/) ⭐️<br> 
 #### [绅士三部曲](https://boheme130.github.io/GentlemenSeries.git.io/) ⭐️<br> 
@@ -25,7 +27,7 @@
 <br/>
 <br/>
 
-## 长篇(打⭐️的为推荐)
+## 长篇 (打⭐️的为推荐)
 #### [Less](https://boheme130.github.io/Less.git.io/) <br>
 #### [Less2](https://boheme130.github.io/Less2/) ⭐️<br>
 #### [The Gentle Art of Fortune Hunting](https://boheme130.github.io/GentleArt.git.io/) <br>
@@ -61,7 +63,7 @@
 <br/>
 <br/>
 
-## 短篇(打⭐️的为推荐)
+## 短篇 (打⭐️的为推荐)
 #### [谎言之水从天而降 翻译](https://boheme130.github.io/WaterFrNowh.git.io/) <br>
 #### [他 翻译](https://boheme130.github.io/Him.git.io/) ⭐️<br>
 #### [Audtition](https://boheme130.github.io/Audition.git.io/) <br>
