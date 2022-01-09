@@ -4,17 +4,13 @@
 
 ![avatar](https://pro2-bar-s3-cdn-cf1.myportfolio.com/f60a1bb1208bdd41e01546cd1830c0b6/21e874c2-d687-4ac4-85ae-d8bbd31bc818_rwc_0x121x1124x880x1124.gif?h=35d4975c0773e2a2718784266b161133)
 
-<br>
-<br>
-
-## 打⭐️的为推荐书目
 
 <br>
 <br>
 
 
 
-## 系列
+## 系列(打⭐️的为推荐)
 #### [大坏狼系列](https://boheme130.github.io/BigBadWolf.git.io/) ❤️❤️❤️ <br>
 #### [His Royal系列](https://boheme130.github.io/HisRoyaoSeries.git.io/) <br>
 #### [绅士三部曲](https://boheme130.github.io/GentlemenSeries.git.io/) <br>
@@ -29,7 +25,7 @@
 <br/>
 <br/>
 
-## 长篇
+## 长篇(打⭐️的为推荐)
 #### [Less](https://boheme130.github.io/Less.git.io/) <br>
 #### [Less2](https://boheme130.github.io/Less2/)<br>
 #### [The Gentle Art of Fortune Hunting](https://boheme130.github.io/GentleArt.git.io/) <br>
@@ -65,7 +61,7 @@
 <br/>
 <br/>
 
-## 短篇
+## 短篇(打⭐️的为推荐)
 #### [谎言之水从天而降 翻译](https://boheme130.github.io/WaterFrNowh.git.io/) <br>
 #### [他 翻译](https://boheme130.github.io/Him.git.io/) <br>
 #### [Audtition](https://boheme130.github.io/Audition.git.io/) <br>
