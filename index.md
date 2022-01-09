@@ -1,8 +1,8 @@
 # 扫文通道
 [作者编辑](https://github.com/Boheme130/Fiction.git.io/edit/gh-pages/index.md)
+![avatar](https://branchesculture.com/wp-content/uploads/2016/02/tomine11.jpg)
 
-
-![avatar](https://pro2-bar-s3-cdn-cf1.myportfolio.com/f60a1bb1208bdd41e01546cd1830c0b6/21e874c2-d687-4ac4-85ae-d8bbd31bc818_rwc_0x121x1124x880x1124.gif?h=35d4975c0773e2a2718784266b161133)
+<!-- ![avatar](https://pro2-bar-s3-cdn-cf1.myportfolio.com/f60a1bb1208bdd41e01546cd1830c0b6/21e874c2-d687-4ac4-85ae-d8bbd31bc818_rwc_0x121x1124x880x1124.gif?h=35d4975c0773e2a2718784266b161133) -->
 
 
 <br>
