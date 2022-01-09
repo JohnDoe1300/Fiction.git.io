@@ -17,14 +17,18 @@
 美苏特工横跨30年的爱情
 ### [His Royal系列](https://boheme130.github.io/HisRoyaoSeries.git.io/)
 皇室深柜为爱出柜
+### [Less](https://boheme130.github.io/Less2/)
+奥德赛喜剧，中年美国作家在海外
+### [Downtime](https://boheme130.github.io/Downtime.git.io/)
+现代FBI穿越近代伦敦，和灵媒共破开膛手谜团
 ### [The World Well Lost](https://boheme130.github.io/WorldWellLost/)
 七十年前的科幻恐同短篇
 ### [绅士三部曲](https://boheme130.github.io/GentlemenSeries.git.io/)
 摄政时期绅士俱乐部三部曲
-### [Less](https://boheme130.github.io/Less2/)
-奥德赛喜剧，中年美国作家在海外
 ### [Comfort and Joy](https://boheme130.github.io/ComfortAndJoy.git.io/)
 千禧年的南部医院爱情
+### [The Carpet Weaver](https://boheme130.github.io/CarpetWeaver.git.io/)
+六十年代阿富汗的穆斯林禁忌恋
 ### [The Lost Language of Cranes](https://boheme130.github.io/LostLangCranes.git.io/)
 父子都是Gay，曼哈顿家庭的悲剧
 
@@ -54,14 +58,14 @@
 #### [Comfort and Joy](https://boheme130.github.io/ComfortAndJoy.git.io/) ⭐️ <br>
 #### [The Road to Silver Plume](https://boheme130.github.io/RoadToSilverPlume.git.io/) <br>
 #### [Aqua Follies](https://boheme130.github.io/AquaFollies.git.io/) <br>
-#### [The Lost Language of Cranes](https://boheme130.github.io/LostLangCranes.git.io/) <br>
+#### [The Lost Language of Cranes](https://boheme130.github.io/LostLangCranes.git.io/) ⭐️<br>
 #### [Restored](https://boheme130.github.io/Restored.git.io/) <br>
-#### [Downtime](https://boheme130.github.io/Downtime.git.io/) <br>
+#### [Downtime](https://boheme130.github.io/Downtime.git.io/) ⭐️<br> 
 #### [The Backup Boyfriend](https://boheme130.github.io/BackupBoyfriend/) <br>
 #### [Heores for Ghosts](https://boheme130.github.io/HeroesForGhosts.git.io/) <br>
 #### [The Picture of Dorian Gray](https://boheme130.github.io/PictureOfDorianGray/) <br>
 #### [Orlando](https://boheme130.github.io/Orlando.git.io/) <br>
-#### [The Carpet Weaver](https://boheme130.github.io/CarpetWeaver.git.io/) <br>
+#### [The Carpet Weaver](https://boheme130.github.io/CarpetWeaver.git.io/) ⭐️<br>
 #### [Police Brutality](https://boheme130.github.io/PoliceBrutality.git.io/) <br>
 #### [The Power of the Dog](https://boheme130.github.io/PowerOfDog.git.io/) <br>
 #### [Alpha's Cage](https://boheme130.github.io/AlphasCage.git.io/) <br>
@@ -85,7 +89,7 @@
 ## 短篇 (打⭐️的为推荐)
 #### [谎言之水从天而降 翻译](https://boheme130.github.io/WaterFrNowh.git.io/) <br>
 #### [他 翻译](https://boheme130.github.io/Him.git.io/) ⭐️<br>
-#### [Audtition](https://boheme130.github.io/Audition.git.io/) <br>
+#### [Audtition](https://boheme130.github.io/Audition.git.io/) ⭐️<br>
 #### [Territory](https://boheme130.github.io/Territory.git.io/) <br>
 #### [The Englishman](https://boheme130.github.io/TheEnglishman.git.io/) <br>
 #### [A is for Alone](https://boheme130.github.io/AForAlone.git.io/) <br>
