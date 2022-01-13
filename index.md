@@ -1,6 +1,9 @@
 # 扫文通道
 [作者编辑](https://github.com/Boheme130/Fiction.git.io/edit/gh-pages/index.md)
-![avatar](https://branchesculture.com/wp-content/uploads/2016/02/tomine11.jpg)
+![avatar](https://d3h6k4kfl8m9p0.cloudfront.net/uploads/2012/08/leyendecker-and-rockwell.jpg)
+
+
+<!-- ![avatar](https://branchesculture.com/wp-content/uploads/2016/02/tomine11.jpg) -->
 
 <!-- ![avatar](https://pro2-bar-s3-cdn-cf1.myportfolio.com/f60a1bb1208bdd41e01546cd1830c0b6/21e874c2-d687-4ac4-85ae-d8bbd31bc818_rwc_0x121x1124x880x1124.gif?h=35d4975c0773e2a2718784266b161133) -->
 
@@ -115,7 +118,7 @@
 #### [扫文混杂1](https://boheme130.github.io/ReadingList2021Spring.git.io/) <br>
 #### [扫文混杂2](https://boheme130.github.io/ReadingList2021Summer.git.io/) <br>
 #### [熟词僻义](https://boheme130.github.io/VolcabularyWithDifferentMeanings.git.io/) <br>
-#### [英耽完整词汇表](https://quizlet.com/Bohemian_/folders/fic/sets) <br>
+#### [小说完整词汇表](https://quizlet.com/Bohemian_/folders/fic/sets) <br>
 #### [从应试过渡到虚构类阅读](https://boheme130.github.io/HowToRead.git.io/) <br>
 #### [格力高采访](https://boheme130.github.io/GregoryAsheInterview.git.io/) <br>
 #### [2021年榜](https://boheme130.github.io/2021List/) <br>
