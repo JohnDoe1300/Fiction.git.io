@@ -1,5 +1,5 @@
 # 扫文通道
-[作者编辑](https://github.com/Boheme130/Fiction.git.io/edit/gh-pages/index.md)
+[作者编辑](https://github.com/Boheme130/Fiction.git.io/edit/gh-pages/index.md) <br>
 ![avatar](https://d3h6k4kfl8m9p0.cloudfront.net/uploads/2012/08/leyendecker-and-rockwell.jpg)
 
 
