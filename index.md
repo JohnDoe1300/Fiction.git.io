@@ -1,6 +1,6 @@
 # 扫文通道
 [作者编辑](https://github.com/Boheme130/Fiction.git.io/edit/gh-pages/index.md) <br>
-![avatar](https://d3h6k4kfl8m9p0.cloudfront.net/uploads/2012/08/leyendecker-and-rockwell.jpg)
+![avatar](https://thenichedotblog.files.wordpress.com/2020/02/1.jpg)
 
 
 <!-- ![avatar](https://branchesculture.com/wp-content/uploads/2016/02/tomine11.jpg) -->
