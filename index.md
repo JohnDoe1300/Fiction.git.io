@@ -122,6 +122,7 @@
 ## 混杂
 #### [扫文混杂1](https://boheme130.github.io/ReadingList2021Spring.git.io/) <br>
 #### [扫文混杂2](https://boheme130.github.io/ReadingList2021Summer.git.io/) <br>
+#### [2021Fall-2022Winter扫文](https://boheme130.github.io/2021FallReading/) <br>
 #### [熟词僻义](https://boheme130.github.io/VolcabularyWithDifferentMeanings.git.io/) <br>
 #### [小说完整词汇表](https://quizlet.com/Bohemian_/folders/fic/sets) <br>
 #### [从应试过渡到虚构类阅读](https://boheme130.github.io/HowToRead.git.io/) <br>
