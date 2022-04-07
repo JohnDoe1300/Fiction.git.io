@@ -87,6 +87,7 @@
 #### [To Paradise第二部分](https://boheme130.github.io/ToParadise2/) <br>
 #### [Memorial](https://boheme130.github.io/Memorial/) <br>
 #### [Tell Me How to Be](https://boheme130.github.io/TellMeHowtoBe/) <br>
+#### [Th Inheritance](https://boheme130.github.io/TheInheritance/) <br>
 
 
 
