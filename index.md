@@ -11,7 +11,7 @@
 <br>
 <br>
 
-## 精选
+<!-- ## 精选
 ### [A Little Life](https://boheme130.github.io/ALittleLife/)
 *纯男性关系的两极光谱，一场失败却温暖的救赎*
 ### [The Amazing Adventures of Kavalier and Clay](https://boheme130.github.io/AdventureOfKC/)
@@ -33,11 +33,11 @@
 ### [The Carpet Weaver](https://boheme130.github.io/CarpetWeaver.git.io/)
 *六十年代阿富汗的穆斯林禁忌恋*
 ### [The Lost Language of Cranes](https://boheme130.github.io/LostLangCranes.git.io/)
-*父子都是Gay，曼哈顿家庭的悲剧*
-
+*父子都是Gay，曼哈顿家庭的悲剧* -->
+<!-- 
 
 <br/>
-<br/>
+<br/> -->
 
 ## 系列
 #### [大坏狼系列](https://boheme130.github.io/BigBadWolf.git.io/) <br>
@@ -87,7 +87,7 @@
 #### [To Paradise第二部分](https://boheme130.github.io/ToParadise2/) <br>
 #### [Memorial](https://boheme130.github.io/Memorial/) <br>
 #### [Tell Me How to Be](https://boheme130.github.io/TellMeHowtoBe/) <br>
-#### [Th Inheritance](https://boheme130.github.io/TheInheritance/) <br>
+#### [Th Inheritance](https://boheme130.github.io/TheInheritance/) ⭐️⭐️<br>
 
 
 
