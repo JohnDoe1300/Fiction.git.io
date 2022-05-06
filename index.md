@@ -114,6 +114,7 @@
 #### [县级市感恩节Pride Slays Thanksgiving](https://boheme130.github.io/PrideThksGiving/) <br>
 #### [The World Well Lost](https://boheme130.github.io/WorldWellLost/) ⭐️<br>
 #### [The Threefold Tie](https://boheme130.github.io/ThreefoldTie/)<br>
+#### [How to Piss Off A Failed Super-Soldier](https://boheme130.github.io/Failed_Super_Soldier/)<br>
 
 
 
