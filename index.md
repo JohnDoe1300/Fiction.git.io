@@ -115,6 +115,7 @@
 #### [The World Well Lost](https://boheme130.github.io/WorldWellLost/) ⭐️<br>
 #### [The Threefold Tie](https://boheme130.github.io/ThreefoldTie/)<br>
 #### [How to Piss Off A Failed Super-Soldier](https://boheme130.github.io/Failed_Super_Soldier/)<br>
+#### [Incomplete Proof 翻译](https://boheme130.github.io/Incomplete_Proof/) <br>
 
 
 
