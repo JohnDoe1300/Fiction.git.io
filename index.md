@@ -49,6 +49,7 @@
 #### [Borealis侦探事务所系列](https://boheme130.github.io/Borealis.git.io/) <br>
 #### [PsyCop系列](https://boheme130.github.io/PsyCop/) <br>
 #### [Executive Office](https://boheme130.github.io/ExecetiveOffice/) <br>
+#### [John Chu 朱中宜小说合集](https://boheme130.github.io/JohnChu/) <br>
 
 <br/>
 <br/>
