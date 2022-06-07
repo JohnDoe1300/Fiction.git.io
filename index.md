@@ -137,6 +137,7 @@
 #### [格力高采访](https://boheme130.github.io/GregoryAsheInterview.git.io/) <br>
 #### [2021年榜](https://boheme130.github.io/2021List/) <br>
 #### [Metafiction](https://boheme130.github.io/Metafiction/)<br>
+#### [Race](https://github.com/Boheme130/Race_Ethnicity/blob/gh-pages/index.md)<br>
 
 <br>
 
