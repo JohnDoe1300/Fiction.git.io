@@ -39,6 +39,8 @@
 <br/>
 <br/> -->
 
+#### 由于文章数量太多，部分文章已被移至[这里](https://github.com/Boheme130/Fiction.git.io/blob/gh-pages/other.md)
+
 ## 系列
 #### [大坏狼系列](https://boheme130.github.io/BigBadWolf.git.io/) <br>
 #### [His Royal系列](https://boheme130.github.io/HisRoyaoSeries.git.io/) ⭐️<br> 
