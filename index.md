@@ -8,9 +8,6 @@
 <!-- ![avatar](https://pro2-bar-s3-cdn-cf1.myportfolio.com/f60a1bb1208bdd41e01546cd1830c0b6/21e874c2-d687-4ac4-85ae-d8bbd31bc818_rwc_0x121x1124x880x1124.gif?h=35d4975c0773e2a2718784266b161133) -->
 
 
-<br>
-<br>
-
 <!-- ## 精选
 ### [A Little Life](https://boheme130.github.io/ALittleLife/)
 *纯男性关系的两极光谱，一场失败却温暖的救赎*
@@ -40,8 +37,6 @@
 <br/> -->
 
 ### 由于文章数量太多，本页只留下推荐文章，其他文章已被移至[这里](https://github.com/Boheme130/Fiction.git.io/blob/gh-pages/other.md)
-
-<br/>
 <br/>
 
 ## 系列
