@@ -50,6 +50,7 @@
 #### [PsyCop系列](https://boheme130.github.io/PsyCop/) <br>
 #### [Executive Office](https://boheme130.github.io/ExecetiveOffice/) <br>
 #### [John Chu 朱中宜小说合集](https://boheme130.github.io/JohnChu/) <br>
+#### [Robert Rodi千禧年六部曲](https://boheme130.github.io/RobertRodi/) <br>
 
 <br/>
 <br/>
@@ -90,8 +91,8 @@
 #### [Tell Me How to Be](https://boheme130.github.io/TellMeHowtoBe/) <br>
 #### [Th Inheritance](https://boheme130.github.io/TheInheritance/) ⭐️⭐️<br>
 <!-- #### [The Heart's Invisible Furies](https://boheme130.github.io/HeartsInvisibleFury/) <br> -->
-#### [Closet Case](https://boheme130.github.io/ClosetCase/) ⭐️⭐️<br>
-#### [Fag Hag](https://boheme130.github.io/FagHag/) <br>
+<!-- #### [Closet Case](https://boheme130.github.io/ClosetCase/) ⭐️⭐️<br> -->
+<!-- #### [Fag Hag](https://boheme130.github.io/FagHag/) <br> -->
 #### [The Book of Salt](https://boheme130.github.io/BookOfSalt/) <br>
 
 
