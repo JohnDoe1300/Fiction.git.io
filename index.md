@@ -39,7 +39,10 @@
 <br/>
 <br/> -->
 
-#### 由于文章数量太多，部分文章已被移至[这里](https://github.com/Boheme130/Fiction.git.io/blob/gh-pages/other.md)
+### 由于文章数量太多，本页只留下推荐文章，其他文章已被移至[这里](https://github.com/Boheme130/Fiction.git.io/blob/gh-pages/other.md)
+
+<br/>
+<br/>
 
 ## 系列
 #### [大坏狼系列](https://boheme130.github.io/BigBadWolf.git.io/) <br>
@@ -62,36 +65,36 @@
 #### [The Gentle Art of Fortune Hunting](https://boheme130.github.io/GentleArt.git.io/) <br>
 #### [Eligible](https://boheme130.github.io/Eligible.git.io/) <br>
 #### [Comfort and Joy](https://boheme130.github.io/ComfortAndJoy.git.io/) ⭐️ <br>
-#### [The Road to Silver Plume](https://boheme130.github.io/RoadToSilverPlume.git.io/) <br>
+<!-- #### [The Road to Silver Plume](https://boheme130.github.io/RoadToSilverPlume.git.io/) <br> -->
 #### [Aqua Follies](https://boheme130.github.io/AquaFollies.git.io/) <br>
 #### [The Lost Language of Cranes](https://boheme130.github.io/LostLangCranes.git.io/) ⭐️<br>
 #### [Restored](https://boheme130.github.io/Restored.git.io/) <br>
 #### [Downtime](https://boheme130.github.io/Downtime.git.io/) ⭐️<br> 
-#### [The Backup Boyfriend](https://boheme130.github.io/BackupBoyfriend/) <br>
-#### [Heores for Ghosts](https://boheme130.github.io/HeroesForGhosts.git.io/) <br>
-#### [The Picture of Dorian Gray](https://boheme130.github.io/PictureOfDorianGray/) <br>
-#### [Orlando](https://boheme130.github.io/Orlando.git.io/) <br>
+<!-- #### [The Backup Boyfriend](https://boheme130.github.io/BackupBoyfriend/) <br> -->
+<!-- #### [Heores for Ghosts](https://boheme130.github.io/HeroesForGhosts.git.io/) <br> -->
+<!-- #### [The Picture of Dorian Gray](https://boheme130.github.io/PictureOfDorianGray/) <br> -->
+<!-- #### [Orlando](https://boheme130.github.io/Orlando.git.io/) <br> -->
 #### [The Carpet Weaver](https://boheme130.github.io/CarpetWeaver.git.io/) ⭐️<br>
-#### [Police Brutality](https://boheme130.github.io/PoliceBrutality.git.io/) <br>
-#### [The Power of the Dog](https://boheme130.github.io/PowerOfDog.git.io/) <br>
-#### [Alpha's Cage](https://boheme130.github.io/AlphasCage.git.io/) <br>
-#### [Thief: Black Wolf](https://boheme130.github.io/ThiefBlackWolf/) <br>
-#### [Risk Assessment](https://boheme130.github.io/RiskAssess.git.io/) <br>
-#### [The Boyfriend Mandate](https://boheme130.github.io/BFMandate.git.io/) <br>
-#### [Reasonable Doubt](https://boheme130.github.io/ReasonDoubt.git.io/) <br>
-#### [Relative Justice](https://boheme130.github.io/RelativeJustive/) <br>
-#### [Wild as the West Texas Wind ](https://boheme130.github.io/WildTexasWind/) <br>
-#### [Invitation to the Dance](https://boheme130.github.io/InvitationToDance/) <br>
+<!-- #### [Police Brutality](https://boheme130.github.io/PoliceBrutality.git.io/) <br> -->
+<!-- #### [The Power of the Dog](https://boheme130.github.io/PowerOfDog.git.io/) <br> -->
+<!-- #### [Alpha's Cage](https://boheme130.github.io/AlphasCage.git.io/) <br> -->
+<!-- #### [Thief: Black Wolf](https://boheme130.github.io/ThiefBlackWolf/) <br> -->
+<!-- #### [Risk Assessment](https://boheme130.github.io/RiskAssess.git.io/) <br> -->
+<!-- #### [The Boyfriend Mandate](https://boheme130.github.io/BFMandate.git.io/) <br> -->
+<!-- #### [Reasonable Doubt](https://boheme130.github.io/ReasonDoubt.git.io/) <br> -->
+<!-- #### [Relative Justice](https://boheme130.github.io/RelativeJustive/) <br> -->
+<!-- #### [Wild as the West Texas Wind ](https://boheme130.github.io/WildTexasWind/) <br> -->
+<!-- #### [Invitation to the Dance](https://boheme130.github.io/InvitationToDance/) <br> -->
 #### [Honeytrap](https://boheme130.github.io/Honeytrap/) ⭐️ <br> 
 #### [The Amazing Adventures of Kavalier and Clay](https://boheme130.github.io/AdventureOfKC/) ⭐️ <br> 
 #### [A Little Life](https://boheme130.github.io/ALittleLife/) ⭐️⭐️ <br> 
 #### [Alec](https://boheme130.github.io/Alec/) <br>
-#### [To Paradise第一部分](https://boheme130.github.io/ToParadise1/) <br>
-#### [To Paradise第二部分](https://boheme130.github.io/ToParadise2/) <br>
+<!-- #### [To Paradise第一部分](https://boheme130.github.io/ToParadise1/) <br>
+#### [To Paradise第二部分](https://boheme130.github.io/ToParadise2/) <br> -->
 #### [Memorial](https://boheme130.github.io/Memorial/) <br>
 #### [Tell Me How to Be](https://boheme130.github.io/TellMeHowtoBe/) <br>
 #### [Th Inheritance](https://boheme130.github.io/TheInheritance/) ⭐️⭐️<br>
-#### [The Heart's Invisible Furies](https://boheme130.github.io/HeartsInvisibleFury/) <br>
+<!-- #### [The Heart's Invisible Furies](https://boheme130.github.io/HeartsInvisibleFury/) <br> -->
 #### [Closet Case](https://boheme130.github.io/ClosetCase/) ⭐️⭐️<br>
 #### [Fag Hag](https://boheme130.github.io/FagHag/) <br>
 #### [The Book of Salt](https://boheme130.github.io/BookOfSalt/) <br>
@@ -109,18 +112,18 @@
 #### [Territory](https://boheme130.github.io/Territory.git.io/) <br>
 #### [The Englishman](https://boheme130.github.io/TheEnglishman.git.io/) <br>
 #### [A is for Alone](https://boheme130.github.io/AForAlone.git.io/) <br>
-#### [Bryan Washington亚裔非裔短篇两则](https://boheme130.github.io/BryanWashington.git.io/) <br>
-#### [泰勒斯小三歌同人](https://boheme130.github.io/UBelongWMe.git.io/) <br>
-#### [格力高哥特风短篇](https://boheme130.github.io/WhenTheRoadRises.git.io/) <br>
-#### [姑妈的遗产](https://boheme130.github.io/AuntAdelinesBequest.git.io/) <br>
-#### [Somers卖身记](https://boheme130.github.io/SomersSold.git.io/) <br>
+<!-- #### [Bryan Washington亚裔非裔短篇两则](https://boheme130.github.io/BryanWashington.git.io/) <br> -->
+<!-- #### [泰勒斯小三歌同人](https://boheme130.github.io/UBelongWMe.git.io/) <br> -->
+<!-- #### [格力高哥特风短篇](https://boheme130.github.io/WhenTheRoadRises.git.io/) <br> -->
+<!-- #### [姑妈的遗产](https://boheme130.github.io/AuntAdelinesBequest.git.io/) <br> -->
+<!-- #### [Somers卖身记](https://boheme130.github.io/SomersSold.git.io/) <br> -->
 #### [纽约客北欧短篇Alvin](https://boheme130.github.io/Alvin.git.io/) <br>
-#### [县级市情人节短篇：戏中戏](https://boheme130.github.io/ValentineSixBeats.git.io/) <br>
-#### [Dedicated](https://boheme130.github.io/Dedicated.git.io/) <br>
-#### [Smoke, Lilies, and Jade](https://boheme130.github.io/SmokeLilies.git.io/) <br>
-#### [县级市感恩节Pride Slays Thanksgiving](https://boheme130.github.io/PrideThksGiving/) <br>
+<!-- #### [县级市情人节短篇：戏中戏](https://boheme130.github.io/ValentineSixBeats.git.io/) <br> -->
+<!-- #### [Dedicated](https://boheme130.github.io/Dedicated.git.io/) <br> -->
+<!-- #### [Smoke, Lilies, and Jade](https://boheme130.github.io/SmokeLilies.git.io/) <br> -->
+<!-- #### [县级市感恩节Pride Slays Thanksgiving](https://boheme130.github.io/PrideThksGiving/) <br> -->
 #### [The World Well Lost](https://boheme130.github.io/WorldWellLost/) ⭐️<br>
-#### [The Threefold Tie](https://boheme130.github.io/ThreefoldTie/)<br>
+<!-- #### [The Threefold Tie](https://boheme130.github.io/ThreefoldTie/)<br> -->
 #### [How to Piss Off A Failed Super-Soldier](https://boheme130.github.io/Failed_Super_Soldier/)<br>
 #### [Incomplete Proof 翻译](https://boheme130.github.io/Incomplete_Proof/) <br>
 
