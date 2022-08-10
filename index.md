@@ -95,7 +95,8 @@
 <!-- #### [Fag Hag](https://boheme130.github.io/FagHag/) <br> -->
 #### [The Book of Salt](https://boheme130.github.io/BookOfSalt/) <br>
 #### [Book Boyfriend](https://boheme130.github.io/BookBF/) <br>
-#### [The People in the Trees](https://boheme130.github.io/PeopleInTrees/) <br> ⭐️
+#### [The People in the Trees](https://boheme130.github.io/PeopleInTrees/) ⭐️ <br>
+#### [A Lady for a Duke](https://boheme130.github.io/LadyForADuke/)<br>
 
 
 
