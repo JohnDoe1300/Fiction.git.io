@@ -51,6 +51,7 @@
 #### [Executive Office](https://boheme130.github.io/ExecetiveOffice/) <br>
 #### [John Chu 朱中宜小说合集](https://boheme130.github.io/JohnChu/) <br>
 #### [Robert Rodi千禧年六部曲](https://boheme130.github.io/RobertRodi/) <br>
+#### [Magic in Manhattan](https://boheme130.github.io/MagicManhattan/) <br>
 
 <br/>
 <br/>
