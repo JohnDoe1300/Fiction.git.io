@@ -148,6 +148,7 @@
 #### [2021年榜](https://boheme130.github.io/2021List/) <br>
 #### [Metafiction](https://boheme130.github.io/Metafiction/)<br>
 #### [Race](https://github.com/Boheme130/Race_Ethnicity/blob/gh-pages/index.md)<br>
+#### [Generator](https://github.com/Boheme130/Fiction.git.io/blob/gh-pages/voc.md) <br>
 
 <br>
 
