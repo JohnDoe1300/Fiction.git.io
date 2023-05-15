@@ -36,13 +36,13 @@
 <br/>
 <br/> -->
 
-### 由于文章数量太多，本页只留下推荐文章，其他文章已被移至[这里](https://github.com/Boheme130/Fiction.git.io/blob/gh-pages/other.md)
+### 由于文章数量太多，本页只留下推荐文章，其他文章已被移至[这里](https://github.com/Boheme130/Fiction.git.io/blob/gh-pages/other.md)和[这里](https://boheme130.github.io/Reviews/)
 <br/>
 
 ## 系列
-#### [大坏狼系列](https://boheme130.github.io/BigBadWolf.git.io/) <br>
-#### [His Royal系列](https://boheme130.github.io/HisRoyaoSeries.git.io/) ⭐️<br> 
-#### [绅士三部曲](https://boheme130.github.io/GentlemenSeries.git.io/) ⭐️<br> 
+#### [大坏狼系列](https://boheme130.github.io/BigBadWolf.git.io/)⭐️⭐️ <br>
+#### [His Royal系列](https://boheme130.github.io/HisRoyaoSeries.git.io/) ⭐️⭐️<br> 
+#### [绅士三部曲](https://boheme130.github.io/Reviews/Gentlemen/) ⭐️⭐️⭐️<br> 
 #### [Winterbourne四部曲](https://boheme130.github.io/WinterbourneSeries.git.io/) <br>
 #### [Lily Morton英国系列](https://boheme130.github.io/LilyMorton.git.io/) ⭐️<br> 
 #### [县级市系列](https://boheme130.github.io/HazardAndSomers.git.io/) <br>
@@ -50,7 +50,7 @@
 #### [PsyCop系列](https://boheme130.github.io/PsyCop/) <br>
 #### [Executive Office](https://boheme130.github.io/ExecetiveOffice/) <br>
 #### [John Chu 朱中宜小说合集](https://boheme130.github.io/JohnChu/) <br>
-#### [Robert Rodi千禧年六部曲](https://boheme130.github.io/RobertRodi/) <br>
+#### [Robert Rodi千禧年六部曲](https://boheme130.github.io/RobertRodi/) ⭐️<br>
 #### [Magic in Manhattan](https://boheme130.github.io/MagicManhattan/) <br>
 
 <br/>
@@ -152,4 +152,8 @@
 #### [Generator](https://github.com/Boheme130/Fiction.git.io/blob/gh-pages/voc.md) <br>
 
 <br>
+
+
+### 由于文章数量太多，本页只留下推荐文章，其他文章已被移至[这里](https://github.com/Boheme130/Fiction.git.io/blob/gh-pages/other.md)和[这里](https://boheme130.github.io/Reviews/)
+<br/>
 
